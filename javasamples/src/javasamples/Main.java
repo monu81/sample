@@ -10,6 +10,8 @@ public class Main {
 		System.out.println("master changes-2");
 		System.out.println("feature-1 changes-1");
 		System.out.println("feature-1 changes-2");
+		
+		System.out.println("New development on master-1");
 
 	}
 }
